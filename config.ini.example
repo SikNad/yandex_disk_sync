@@ -1,0 +1,8 @@
+[sync]
+local_path = /путь/к/вашей/локальной/папке
+cloud_path = /backup
+sync_period = 10
+log_file = sync.log
+
+[auth]
+token = ВАШ_OAUTH_ТОКЕН
